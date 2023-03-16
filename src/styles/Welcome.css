@@ -1,0 +1,131 @@
+*{
+  background-color: #FAFAFA;
+  box-sizing: content-box;
+  font-family: 'Encode Sans Semi Condensed', sans-serif;
+  letter-spacing: 0.66px;
+  color: #182B38;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.App-header {
+  height: 600px;
+	margin: 0 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+	align-items: center;
+}
+.App-logo {
+	width: 159px;
+	height: 74px;
+	padding: 0 0 35px 0;
+}
+.description {
+	margin: 0 30px;
+	text-align: center;
+}
+.container-image {
+  padding-top: 50px;
+}
+.container-project {
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.caption {
+  padding-top: 15px;
+}
+.line-separate {
+  width: 100%;
+}
+.footer-button {
+  margin: 70px 0 50px 0;
+  display: flex;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.App-about-us {
+  height: 550px;
+	margin: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.App-contact {
+  height: 550px;
+	display: flex;
+  align-items: center;
+  width: 80%;
+}
+
+.form-contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 90%;
+}
+
+.input-form {
+  border: none;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 15px #0000000B;
+  border-radius: 5px;
+  opacity: 1;
+  padding: 15px 20px;
+  width: 100%;
+  margin: 10px;
+}
+.message{
+  height: 100px;
+}
+.input-form::placeholder {
+  letter-spacing: -0.47px;
+  color: #182B38;
+  opacity: 0.55;
+  display: flex;
+  align-items: flex-start;
+  font-size: 13px;
+}
+
+.btn-form {
+  border: none;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 15px #0000000B;
+  border-radius: 5px;
+  opacity: 1;
+  padding: 10px 20px;
+  width: 100%;
+  margin: 10px;
+  font-weight: bolder;
+  font-weight: medium;
+  font-size: 17px;
+}
+
+.footer-link {
+  font-size: 14px;
+  font-weight: medium;
+}
+
+.title {
+  font-size: 17px;
+  font-weight: bolder;
+  letter-spacing: 0.47px;
+}
+
+.description-about-me {
+  font-size: 1px;
+}
