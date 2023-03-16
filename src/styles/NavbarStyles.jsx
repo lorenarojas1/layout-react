@@ -11,6 +11,7 @@ export const NavbarWrapper = styled.nav`
   width: 100%;
   height: 100%;
   transition: right 0.3s linear;
+  z-index: 1;
 
 
   @media only screen and (min-width: 624px) {

@@ -13,12 +13,11 @@
   align-items: center;
 }
 .App-header {
-  height: 600px;
-	margin: 0 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
 	align-items: center;
+
 }
 .App-logo {
 	width: 159px;
@@ -26,7 +25,7 @@
 	padding: 0 0 35px 0;
 }
 .description {
-	margin: 0 30px;
+
 	text-align: center;
 }
 .container-image {
@@ -37,6 +36,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin-top: 80px;
 }
 .caption {
   padding-top: 15px;
@@ -57,7 +57,7 @@ a {
 
 .App-about-us {
   height: 550px;
-	margin: 40px 20px;
+	margin: 100px 20px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -69,6 +69,8 @@ a {
 	display: flex;
   align-items: center;
   width: 80%;
+  margin: 80px 40px 0 20px;
+
 }
 
 .form-contact {
@@ -127,5 +129,31 @@ a {
 }
 
 .description-about-me {
-  font-size: 1px;
+  font-size: 15px;
+}
+.size {
+  width: 90%;;
+}
+
+.App-intro {
+  z-index: 9999;
+}
+.App-index {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.header-position {
+ width: 100%;
+
+}
+
+#hide {
+  position: fixed;
+  top:0;
+  z-index: 9999;
 }

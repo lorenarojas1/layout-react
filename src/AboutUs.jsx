@@ -6,7 +6,7 @@ function AboutUsPage() {
   return (
     <>
       <Header />
-      <div className="App">
+      <div className="App-index">
         <div className="App-about-us">
           <h3>Nosotros</h3>
           <p className='description-about-me'>

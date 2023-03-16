@@ -9,7 +9,7 @@ function ProjectsPage() {
     <>
     <Header />
     <div className="App">
-        <div className="App-intro">
+        <div className="">
         <div className='container-project'>
           <figure className='container-image'>
             <img src={group1} className="Image-project" alt="Valle de Bravo" />

@@ -7,4 +7,7 @@ export const HeaderWrapper = styled.header`
   align-items: center;
   border-bottom: 1px solid;
   padding: 0 20px;
+  position: fixed;
+  width: 90%;
+
 `;
