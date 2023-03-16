@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lorenarojas1/layout-react/static/css/main.d0ee4882.css",
+    "main.js": "/lorenarojas1/layout-react/static/js/main.5ebd01d9.js",
+    "static/media/Enmascarar grupo 1.png": "/lorenarojas1/layout-react/static/media/Enmascarar grupo 1.fb2f0316d5644a467680.png",
+    "static/media/Enmascarar grupo 3.png": "/lorenarojas1/layout-react/static/media/Enmascarar grupo 3.7d4a54f638cf9ce839f6.png",
+    "static/media/Enmascarar grupo 2.png": "/lorenarojas1/layout-react/static/media/Enmascarar grupo 2.c66111b3b7f5118d62ac.png",
+    "static/media/Grupo 36.svg": "/lorenarojas1/layout-react/static/media/Grupo 36.fb08cb21522b61cdacb906569bbc36f2.svg",
+    "index.html": "/lorenarojas1/layout-react/index.html",
+    "main.d0ee4882.css.map": "/lorenarojas1/layout-react/static/css/main.d0ee4882.css.map",
+    "main.5ebd01d9.js.map": "/lorenarojas1/layout-react/static/js/main.5ebd01d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ee4882.css",
+    "static/js/main.5ebd01d9.js"
+  ]
+}
